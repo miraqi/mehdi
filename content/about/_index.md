@@ -7,8 +7,12 @@ hidden = true
 
 ## Hi! There.
 
-My Name is Rahmat H Slamet, Known as Arhen as my global username. I am an engineer who likes to solve problems, and learn new things. Quickly adapt both individually or teams. Specifically very much in love with Linux and Web Technology. My technical skill is around Web Planning then Development using PHP Native/Framework and C# Asp.Net Core.
+My Name is Mehdi Iraqi, an avid entrepreneur & technology enthusiast! 
+My passion is building businesses and supporting talented people. 
+I'm a great believer that it is people, through their passion and conviction, who make a business successful.
 
-### Github
-This is my github card that show my activity.
-<div class="github-card" data-user="arhen" data-width="100%" data-height="200" style="height: 200"></div>
+My latest venture, JINZ.AI inc, is a Technology Consulting & Recruitment Services agency that connects top talent and inspiring companies using Data Science and Human Intelligence.
+
+### Linkedin
+This is my Linkedin profile for more information.
+https://jp.linkedin.com/in/imehdi
