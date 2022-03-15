@@ -1,7 +1,7 @@
 # Site settings
 baseurl = "https://mehdiiraqi.com/"
 languageCode = "id-ID"
-title = "Mehdi Iraqi | An avid entrepreneur & technology enthusiast! "
+title = "Mehdi Iraqi"
 
 #Set googleAnalytics ID
 googleAnalytics = "UA-2147995-7"
@@ -11,7 +11,7 @@ hasCJKLanguage = true
 [params]
 	author = "Mehdi"
 	description = "Minimalist Blog Themes For Developer"
-	bio = "Blazing Fast & Minimalist Blog Themes"
+	bio = "An avid entrepreneur & technology enthusiast!"
 
 	twitter = "elimam"
 
