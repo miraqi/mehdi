@@ -1,24 +1,24 @@
 # Site settings
-baseurl = "https://cereus-pro.netlify.com/"
+baseurl = "https://mehdiiraqi.com/"
 languageCode = "id-ID"
-title = "Cereus Pro | Hugo Theme"
+title = "Mehdi Iraqi | An avid entrepreneur & technology enthusiast! "
 
 #Set googleAnalytics ID
-googleAnalytics = ""
+googleAnalytics = "UA-2147995-7"
 # Set the value to true if your site include CJK (Chinese, Japanese, and Korean languages) characters
-hasCJKLanguage = false
+hasCJKLanguage = true
 
 [params]
-	author = "arhen"
+	author = "Mehdi"
 	description = "Minimalist Blog Themes For Developer"
 	bio = "Blazing Fast & Minimalist Blog Themes"
 
-	twitter = "arhen_desu"
+	twitter = "elimam"
 
 	enableRSS = true
 	enableToc = true
 
-	enableDisqus = true
+	enableDisqus = false
 	disqusShortname = "" #disqus shortname here
 
 
@@ -74,6 +74,5 @@ hasCJKLanguage = false
 
 # Add additional social link entries underneath
 [social]
-	twitter-square = "https://www.twitter.com/arhen_desu"
-	github-square = "https://www.github.com/arhen"
-	linkedin-square = "https://www.linkedin.com/in/rahmadslamet"
+	twitter-square = "https://twitter.com/elimam"
+	linkedin-square = "https://www.linkedin.com/in/imehdi/"
