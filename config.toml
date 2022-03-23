@@ -10,7 +10,7 @@ hasCJKLanguage = true
 
 [params]
 	author = "Mehdi"
-	description = "Minimalist Blog Themes For Developer"
+	description = "Personal online home of Mehdi Iraqi"
 	bio = "An avid entrepreneur & technology enthusiast!"
 
 	twitter = "elimam"
@@ -63,7 +63,7 @@ hasCJKLanguage = true
 
 	# 404 page
 	title404 = "Opps! This place is called 404."
-	subtitle404 = "You entered in the wrong room buddy! Go back."
+	subtitle404 = "You entered to the wrong room buddy! Go back."
 
 	# Choose a font for the social icons in the footer. Either "mono-social" or "font-awesome"
 	iconFont = "font-awesome"
